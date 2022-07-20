@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Nasr.
-- 👀 I’m interested in Data science & backend.
-- 🌱 I’m currently learning Machine Learning & tring to solve problems as I can.
+- 👀 I’m interested in Data Science & Backend.
+- 🌱 I’m currently learning Machine Learning & tring to solve problems as possible as I can.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... using this username on twiter --> "mo7amednasr72".
 

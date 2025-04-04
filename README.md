@@ -1,24 +1,25 @@
-# Hi, I’m [Muhammad Nasr Dawood]! 🚀
+# Hi, I’m **Muhammad Nasr Dawood**! 🚀
 
-I’m a full-stack developer who loves building impactful systems. I recently spearheaded a **Nationwide eCommerce & Inventory Management System** with my team—a scalable platform blending online shopping and offline retail.
+I’m a passionate full-stack developer who loves creating impactful systems. Recently, I led a **Nationwide eCommerce & Inventory Management System** project with my team, combining the best of online shopping and offline retail to create a scalable and efficient platform.
 
-### 🔧 My Toolkit
-- C# | MVC | asp.net
-- Angular 19 | Node.js | Express.js | MongoDB
-- JWT Authentication | RBAC | RESTful APIs  
+### 🔧 My Toolkit:
+- **Languages**: C#, JavaScript (Node.js, Angular)
+- **Frameworks**: ASP.NET Core MVC, Express.js
+- **Databases**: MongoDB
+- **Other Skills**: JWT Authentication, Role-Based Access Control (RBAC), RESTful APIs
 
-### 🏆 Spotlight Project
+### 🏆 Spotlight Project:
 **[eCommerce & Inventory System](https://github.com/devGuru/ecommerce-inventory-system)**  
-A MEAN-stack solution with role-based dashboards for Super Admins, Sellers, Clerks, and more. Features real-time order tracking, analytics, and nationwide branch sync.  
+A MEAN-stack solution featuring role-based dashboards for Super Admins, Sellers, Clerks, and more. This project offers real-time order tracking, analytics, and seamless nationwide branch synchronization.  
 - **Demo**: [Part 1](#)  
 - **Tech**: Angular, Node.js, MongoDB  
 
-### 🌐 Reach Me
-- [LinkedIn](www.linkedin.com/in/cobrastrike)  
+### 🌐 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/cobrastrike)  
 - [Email](mailto:mohamednasr7222@gmail.com)  
 
-### ✨ Fun Fact
-I’m fueled by code, coffee, and collaboration!
+### ✨ Fun Fact:
+I’m fueled by **code**, **coffee**, and **collaboration**!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cobrastrike72&show_icons=true&theme=light)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobrastrike72&layout=compact&theme=light)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=cobrastrike72&show_icons=true&theme=light)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobrastrike72&layout=compact&theme=light)

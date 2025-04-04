@@ -1,5 +1,5 @@
 # Hi 👋, I'm Muhammad Nasr Dawood  
-🚀 **A Passionate Full-Stack Developer**  
+🚀 **A Software Engineer**  
 
 - 🛠️ I’m currently a trainee in the Professional Development and BI-infused CRM track at ITI.
 - 🌱 Learning and mastering **ASP.NET Core & MEAN Stack**  

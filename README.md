@@ -20,5 +20,5 @@ A MEAN-stack solution with role-based dashboards for Super Admins, Sellers, Cler
 ### ✨ Fun Fact
 I’m fueled by code, coffee, and collaboration!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cobrastrike72&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobrastrike72&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=cobrastrike72&show_icons=true&theme=light)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobrastrike72&layout=compact&theme=light)
+

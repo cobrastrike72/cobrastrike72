@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammad Nasr Dawood  
 🚀 **A Passionate Full-Stack Developer**  
 
-- 🛠️ Currently leading a **Nationwide eCommerce & Inventory Management System**  
+- 🛠️ I’m currently a trainee in the Professional Development and BI-infused CRM track at ITI.
 - 🌱 Learning and mastering **ASP.NET Core & MEAN Stack**  
 - 📬 Reach me at **[mohamednasr7222@gmail.com](mailto:mohamednasr7222@gmail.com)**  
 

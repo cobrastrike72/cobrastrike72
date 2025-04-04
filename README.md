@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Mohamed Nasr.
-- 👀 I’m interested in Data Science & Backend.
-- 🌱 I’m currently learning Machine Learning & tring to solve problems as much as possible.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... using this username on twiter --> "mo7amednasr72".
+# Hi, I’m [Muhammad Nasr Dawood]! 🚀
 
-<!---
-PS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a full-stack developer who loves building impactful systems. I recently spearheaded a **Nationwide eCommerce & Inventory Management System** with my team—a scalable platform blending online shopping and offline retail.
+
+### 🔧 My Toolkit
+- C# | MVC | asp.net
+- Angular 19 | Node.js | Express.js | MongoDB
+- JWT Authentication | RBAC | RESTful APIs  
+
+### 🏆 Spotlight Project
+**[eCommerce & Inventory System](https://github.com/devGuru/ecommerce-inventory-system)**  
+A MEAN-stack solution with role-based dashboards for Super Admins, Sellers, Clerks, and more. Features real-time order tracking, analytics, and nationwide branch sync.  
+- **Demo**: [Part 1](#)  
+- **Tech**: Angular, Node.js, MongoDB  
+
+### 🌐 Reach Me
+- [LinkedIn](www.linkedin.com/in/cobrastrike)  
+- [Email](mailto:mohamednasr7222@gmail.com)  
+
+### ✨ Fun Fact
+I’m fueled by code, coffee, and collaboration!
+
+![Stats](https://github-readme-stats.vercel.app/api?username=devGuru&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGuru&layout=compact&theme=dark)

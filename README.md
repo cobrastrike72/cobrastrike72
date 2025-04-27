@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently a trainee in the Professional Development and BI-infused CRM track at ITI.
 - 🌱 Learning and mastering **ASP.NET Core & MEAN Stack**  
-- 📬 Reach me at **[mohamednasr7222@gmail.com](mailto:muhammad.dawood.iti@gmail.com)**  
+- 📬 Reach me at **[muhammad.dawood.iti@gmail.com](mailto:muhammad.dawood.iti@gmail.com)**  
 
 ## 📌 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cobrastrike)  

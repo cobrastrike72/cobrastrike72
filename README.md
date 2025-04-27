@@ -6,7 +6,7 @@
 - 📬 Reach me at **[muhammad.dawood.iti@gmail.com](mailto:muhammad.dawood.iti@gmail.com)**  
 
 ## 📌 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cobrastrike)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-nasr-dawood)  
 
 ## 🔧 Languages & Tools:  
 <p align="left">
